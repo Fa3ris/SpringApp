@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Spring App</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>${title}</h1>
+
+	<h1>Je suis un header</h1>
 </body>
 </html>
